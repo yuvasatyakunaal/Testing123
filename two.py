@@ -1,5 +1,1 @@
-print("hey")
-print(1)
-
-
-print(222222)
+print("Hello world")
